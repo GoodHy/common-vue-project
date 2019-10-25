@@ -8,7 +8,7 @@ import router from './route/router';
 import YiWapLib from 'yiwaplib';
 import 'yiwaplib/lib/yiwaplib.css';
 
-Vue.use(YilibWap, {
+Vue.use(YiWapLib, {
   env: 'prod',
   baseUrl: 'http://testzuul.erp2.itsmycar.cn:7775/zuul/',
   oauthUrl: 'http://testoauth.erp2.itsmycar.cn:7775/',
