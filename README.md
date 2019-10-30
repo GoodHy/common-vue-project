@@ -1,6 +1,6 @@
-# 宜买车前端项目生成器
+# 前端项目生成器
 
-为规范和统一前端静态网站的项目搭建,编写了这个项目生成器,以后的Web与Wap新项目,需要使用 [宜买车前端项目生成器](http://git.itsmycar.cn/front/generator-yiautos-project.git) 进行搭建.
+为规范和统一前端静态网站的项目搭建,编写了这个项目生成器,以后的Web与Wap新项目,需要使用 [宜买车前端项目生成器](https://github.com/GoodHy/common-vue-project.git) 进行搭建.
 
 ## 安装
 
@@ -10,10 +10,10 @@
 npm install -g yo
 ```
 
-#### 再通过git地址安装宜买车项目生成器:
+#### 再通过git地址安装项目生成器:
 
 ```bash
-npm install -g git+http://git.itsmycar.cn/front/generator-yiautos-project.git
+npm install -g git+https://github.com/GoodHy/common-vue-project.git
 ```
 
 #### 执行项目生成:
